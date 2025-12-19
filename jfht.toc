@@ -1,0 +1,8 @@
+## Interface: 110002
+## Title: Jar's Floating Healing Text
+## Notes: Displays healing done by player as animated floating text
+## Author: YourName
+## Version: 1.0
+## SavedVariables: HealingFloatersDB
+
+jfht.lua
